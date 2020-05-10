@@ -1,0 +1,59 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Berlin,Berlin,"52,5218","13,4015",Germany,DE,DEU,Berlin,primary,3406000,1276451290
+Stuttgart,Stuttgart,"48,78","9,2",Germany,DE,DEU,Baden-Württemberg,admin,2944700,1276171358
+Frankfurt,Frankfurt,"50,1","8,675",Germany,DE,DEU,Hesse,minor,2895000,1276054552
+Mannheim,Mannheim,"49,5004","8,47",Germany,DE,DEU,Baden-Württemberg,minor,2362000,1276150104
+Hamburg,Hamburg,"53,55",10,Germany,DE,DEU,Hamburg,admin,1757000,1276041799
+Essen,Essen,"51,45","7,0166",Germany,DE,DEU,North Rhine-Westphalia,minor,1742135,1276769247
+Duisburg,Duisburg,"51,43","6,75",Germany,DE,DEU,North Rhine-Westphalia,minor,1276757,1276977172
+Munich,Munich,"48,1299","11,575",Germany,DE,DEU,Bavaria,admin,1275000,1276692352
+Düsseldorf,Dusseldorf,"51,2204","6,78",Germany,DE,DEU,North Rhine-Westphalia,admin,1220000,1276615258
+Cologne,Cologne,"50,93","6,95",Germany,DE,DEU,North Rhine-Westphalia,,1004000,1276015998
+Wuppertal,Wuppertal,"51,25","7,17",Germany,DE,DEU,North Rhine-Westphalia,minor,776525,1276004611
+Saarbrücken,Saarbrucken,"49,2504","6,97",Germany,DE,DEU,Saarland,admin,770001,1276419711
+Nuremberg,Nuremberg,"49,45","11,08",Germany,DE,DEU,Bavaria,minor,737304,1276166609
+Bremen,Bremen,"53,08","8,8",Germany,DE,DEU,Bremen,admin,724909,1276376509
+Hannover,Hannover,"52,367","9,7167",Germany,DE,DEU,Lower Saxony,admin,722490,1276457707
+Bonn,Bonn,"50,7205","7,08",Germany,DE,DEU,North Rhine-Westphalia,minor,680543,1276807850
+Dresden,Dresden,"51,05","13,75",Germany,DE,DEU,Saxony,admin,617515,1276561036
+Wiesbaden,Wiesbaden,"50,0804","8,25",Germany,DE,DEU,Hesse,admin,617126,1276652118
+Dortmund,Dortmund,"51,53","7,45",Germany,DE,DEU,North Rhine-Westphalia,minor,588462,1276562886
+Leipzig,Leipzig,"51,3354","12,41",Germany,DE,DEU,Saxony,minor,542529,1276563678
+Heidelberg,Heidelberg,"49,42","8,7",Germany,DE,DEU,Baden-Württemberg,minor,426590,1276519742
+Karlsruhe,Karlsruhe,49,"8,4",Germany,DE,DEU,Baden-Württemberg,minor,377487,1276923210
+Augsburg,Augsburg,"48,35","10,9",Germany,DE,DEU,Bavaria,minor,358989,1276314100
+Bielefeld,Bielefeld,"52,03","8,53",Germany,DE,DEU,North Rhine-Westphalia,minor,331906,1276112885
+Koblenz,Koblenz,"50,3505","7,6",Germany,DE,DEU,Rhineland-Palatinate,minor,312633,1276605495
+Chemnitz,Chemnitz,"50,83","12,92",Germany,DE,DEU,Saxony,minor,302643,1276519956
+Kassel,Kassel,"51,3","9,5",Germany,DE,DEU,Hesse,minor,289924,1276791686
+Münster,Munster,"51,9704","7,62",Germany,DE,DEU,North Rhine-Westphalia,minor,270184,1276714504
+Kiel,Kiel,"54,3304","10,13",Germany,DE,DEU,Schleswig-Holstein,admin,269427,1276305306
+Freiburg im Breisgau,Freiburg im Breisgau,"48,0004","7,8699",Germany,DE,DEU,Baden-Württemberg,minor,254889,1276371228
+Braunschweig,Braunschweig,"52,25","10,5",Germany,DE,DEU,Lower Saxony,minor,244715,1276941443
+Fürth,Furth,"49,47",11,Germany,DE,DEU,Bavaria,minor,237844,1276580165
+Lübeck,Lubeck,"53,8704","10,67",Germany,DE,DEU,Schleswig-Holstein,minor,235390,1276852342
+Osnabrück,Osnabruck,"52,2804","8,05",Germany,DE,DEU,Lower Saxony,minor,231268,1276554949
+Magdeburg,Magdeburg,"52,1304","11,62",Germany,DE,DEU,Saxony-Anhalt,admin,229826,1276418236
+Potsdam,Potsdam,"52,4004","13,07",Germany,DE,DEU,Brandenburg,admin,218095,1276395100
+Erfurt,Erfurt,"50,9701","11,03",Germany,DE,DEU,Thuringia,admin,203254,1276924655
+Rostock,Rostock,"54,0704","12,15",Germany,DE,DEU,Mecklenburg-Western Pomerania,,203080,1276210265
+Mainz,Mainz,"49,9825","8,2732",Germany,DE,DEU,Rhineland-Palatinate,admin,184997,1276801317
+Ulm,Ulm,"48,4004",10,Germany,DE,DEU,Baden-Württemberg,minor,172955,1276002212
+Würzburg,Wurzburg,"49,8004","9,95",Germany,DE,DEU,Bavaria,minor,168561,1276233514
+Oldenburg,Oldenburg,"53,13","8,22",Germany,DE,DEU,Lower Saxony,minor,167458,1276946953
+Regensburg,Regensburg,"49,0204","12,12",Germany,DE,DEU,Bavaria,minor,164359,1276000325
+Ingolstadt,Ingolstadt,"48,7704","11,45",Germany,DE,DEU,Bavaria,minor,163325,1276803150
+Göttingen,Gottingen,"51,5204","9,92",Germany,DE,DEU,Lower Saxony,minor,139419,1276211234
+Bremerhaven,Bremerhaven,"53,5504","8,58",Germany,DE,DEU,Bremen,minor,137751,1276991229
+Cottbus,Cottbus,"51,7704","14,33",Germany,DE,DEU,Brandenburg,minor,105067,1276436655
+Jena,Jena,"50,9304","11,58",Germany,DE,DEU,Thuringia,minor,104712,1276659978
+Gera,Gera,"50,8704","12,07",Germany,DE,DEU,Thuringia,minor,104659,1276548165
+Schwerin,Schwerin,"53,6333","11,4167",Germany,DE,DEU,Mecklenburg-Western Pomerania,admin,96641,1276221707
+Flensburg,Flensburg,"54,7837","9,4333",Germany,DE,DEU,Schleswig-Holstein,minor,97930,1276853315
+Rosenheim,Rosenheim,"47,8503","12,1333",Germany,DE,DEU,Bavaria,minor,92809,1276301675
+Gießen,Giessen,"50,5837","8,65",Germany,DE,DEU,Hesse,minor,82358,1276576770
+Stralsund,Stralsund,"54,3004","13,1",Germany,DE,DEU,Mecklenburg-Western Pomerania,minor,61368,1276640152
+Coburg,Coburg,"50,2666","10,9666",Germany,DE,DEU,Bavaria,minor,61054,1276428862
+Hof,Hof,"50,317","11,9167",Germany,DE,DEU,Bavaria,minor,56153,1276561363
+Emden,Emden,"53,3667","7,2167",Germany,DE,DEU,Lower Saxony,minor,51526,1276309938
+Passau,Passau,"48,567","13,4666",Germany,DE,DEU,Bavaria,minor,50560,1276123699
